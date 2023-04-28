@@ -54,7 +54,7 @@ a .liquid::before {
     position: absolute;
     top: 0;
     left: 50%;
-    transform: translate(-50%, -75%);
+    transform: translate(-20%, -75%);
     background-color: black;
 }
 
@@ -71,7 +71,7 @@ a .liquid::after {
 }
 
 a:hover .liquid {
-    top: -139px;
+    top: -120px;
 }
 
 @keyframes btn {
